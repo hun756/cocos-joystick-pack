@@ -9,7 +9,7 @@ import {
     ObserverOptions,
     ExtractEventType,
     EventMap,
-} from '../Event/observer';
+} from '../Event';
 const { ccclass, property } = _decorator;
 
 @ccclass('DynamicJoystick')

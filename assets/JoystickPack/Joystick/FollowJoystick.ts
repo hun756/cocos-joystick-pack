@@ -8,7 +8,7 @@ import {
     ObserverOptions,
     ExtractEventType,
     EventMap,
-} from '../Event/observer';
+} from '../Event';
 import { JoystickEventMap, JoystickObservable } from './JoystickObservable';
 import { JoystickMath } from './JoystickMath';
 import { Range } from '../Runtime/decorators';

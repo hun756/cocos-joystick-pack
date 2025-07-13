@@ -1,6 +1,6 @@
 import { _decorator, Component, Node } from 'cc';
 import { FollowJoystick } from './FollowJoystick';
-import { ObserverId } from '../Event/observer';
+import { ObserverId } from '../Event';
 import { JoystickEventMap } from './JoystickObservable';
 const { ccclass, property } = _decorator;
 

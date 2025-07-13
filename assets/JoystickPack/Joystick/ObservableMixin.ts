@@ -8,7 +8,7 @@ import {
     EventMap,
     EventKeys,
     SubjectId,
-} from '../Event/observer';
+} from '../Event';
 
 export abstract class ObservableMixin<TEventMap extends EventMap>
     implements IObservable<TEventMap>

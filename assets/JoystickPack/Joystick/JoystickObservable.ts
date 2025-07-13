@@ -1,5 +1,5 @@
 import { Vec3, Node } from 'cc';
-import { Observable, EventPayload } from '../Event/observer';
+import { Observable, EventPayload } from '../Event';
 
 export interface JoystickParts {
     ring: Node;
