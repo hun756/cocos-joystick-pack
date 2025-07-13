@@ -1,5 +1,3 @@
-// observable.ts - Observable class implementation
-
 import {
     EventMap,
     EventPayload,
